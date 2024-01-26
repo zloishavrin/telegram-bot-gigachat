@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.3.1",
-    "gigachat-node": "^1.1.1",
+    "gigachat-node": "github:zloishavrin/gigachat-node",
     "node-telegram-bot-api": "^0.64.0",
     "nodemon": "^3.0.2"
   }
